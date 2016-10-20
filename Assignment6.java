@@ -1,6 +1,6 @@
 /*
 Name:Persons Information
-Developer:Keanu correa
+Developer:
 Date:9/10/2016
 Description:Create a reference data type that will be used by a college to store a persons information.
 The information that needs to be stored are the persons name, current address, permanent address, id number, 
