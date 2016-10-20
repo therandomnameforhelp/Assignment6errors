@@ -1,0 +1,11 @@
+ ----jGRASP exec: javac -encoding UTF-8 -g Assignment6.java
+Assignment6.java:159: error: illegal start of expression
+                  }
+                  ^
+Assignment6.java:161: error: reached end of file while parsing
+}
+ ^
+2 errors
+
+ ----jGRASP wedge2: exit code for process is 1.
+ ----jGRASP: operation complete.

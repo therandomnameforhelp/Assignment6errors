@@ -1,0 +1,156 @@
+
+ ----jGRASP exec: javac -encoding UTF-8 -g AssignmentTest6.java
+AssignmentTest6.java:40: error: cannot find symbol
+   pers1.setPersonName(name);
+        ^
+  symbol:   method setPersonName(String)
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:41: error: cannot find symbol
+   System.out.println("You entered " + pers1.getPersonName() + ".\n");
+                                            ^
+  symbol:   method getPersonName()
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:45: error: cannot find symbol
+   pers1.setCurrentAdress(birth);
+        ^
+  symbol:   method setCurrentAdress(String)
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:46: error: cannot find symbol
+   System.out.println("You entered " + pers1.getCurrentAdress() + ".\n");
+                                            ^
+  symbol:   method getCurrentAdress()
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:50: error: cannot find symbol
+   pers1.setBirthDate(permAdress);
+        ^
+  symbol:   method setBirthDate(String)
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:51: error: cannot find symbol
+   System.out.println("You entered " + pers1.getPermanentAdress() + ".\n");
+                                            ^
+  symbol:   method getPermanentAdress()
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:55: error: cannot find symbol
+   pers1.setIdNumber(id);
+        ^
+  symbol:   method setIdNumber(int)
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:56: error: cannot find symbol
+   System.out.println("You entered " + pers1.getIdNumber() + ".\n");
+                                            ^
+  symbol:   method getIdNumber()
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:60: error: cannot find symbol
+   pers1.setBirthDate(birth);
+        ^
+  symbol:   method setBirthDate(String)
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:61: error: cannot find symbol
+   System.out.println("You entered " + pers1.getBirthDate() + ".\n");
+                                            ^
+  symbol:   method getBirthDate()
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:65: error: cannot find symbol
+   pers1.setPersonAge(age);
+        ^
+  symbol:   method setPersonAge(int)
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:66: error: cannot find symbol
+   System.out.println("You entered " + pers1.getPersonAge() + ".\n");
+                                            ^
+  symbol:   method getPersonAge()
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:70: error: cannot find symbol
+   pers1.setEntryYear(year);
+        ^
+  symbol:   method setEntryYear(int)
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:71: error: cannot find symbol
+   System.out.println("You entered " + pers1.getEntryYear() + ".\n");   
+                                            ^
+  symbol:   method getEntryYear()
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:75: error: cannot find symbol
+   pers1.setTotalyears(totalyears);
+        ^
+  symbol:   method setTotalyears(int)
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:76: error: cannot find symbol
+   System.out.println("You entered " + pers1.getTotalYears() + ".\n");
+                                            ^
+  symbol:   method getTotalYears()
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:82: error: cannot find symbol
+   pers1.setPersonName(name);
+        ^
+  symbol:   method setPersonName(String)
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:83: error: cannot find symbol
+   System.out.println("You entered " + pers1.getPersonName() + ".\n");
+                                            ^
+  symbol:   method getPersonName()
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:87: error: cannot find symbol
+   pers1.setCurrentAdress(birth);
+        ^
+  symbol:   method setCurrentAdress(String)
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:88: error: cannot find symbol
+   System.out.println("You entered " + pers1.getCurrentAdress() + ".\n");
+                                            ^
+  symbol:   method getCurrentAdress()
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:92: error: cannot find symbol
+   pers1.setBirthDate(permAdress);
+        ^
+  symbol:   method setBirthDate(String)
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:93: error: cannot find symbol
+   System.out.println("You entered " + pers1.getPermanentAdress() + ".\n");
+                                            ^
+  symbol:   method getPermanentAdress()
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:97: error: cannot find symbol
+   pers1.setBirthDate(birth);
+        ^
+  symbol:   method setBirthDate(String)
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:98: error: cannot find symbol
+   System.out.println("You entered " + pers1.getBirthDate() + ".\n");
+                                            ^
+  symbol:   method getBirthDate()
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:102: error: cannot find symbol
+   pers1.setPersonAge(age);
+        ^
+  symbol:   method setPersonAge(int)
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:103: error: cannot find symbol
+   System.out.println("You entered " + pers1.getPersonAge() + ".\n");
+                                            ^
+  symbol:   method getPersonAge()
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:107: error: cannot find symbol
+   pers1.setEntryYear(year);
+        ^
+  symbol:   method setEntryYear(int)
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:108: error: cannot find symbol
+   System.out.println("You entered " + pers1.getEntryYear() + ".\n");   
+                                            ^
+  symbol:   method getEntryYear()
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:112: error: cannot find symbol
+   pers1.setTotalyears(totalyears);
+        ^
+  symbol:   method setTotalyears(int)
+  location: variable pers1 of type Persons_Information
+AssignmentTest6.java:113: error: cannot find symbol
+   System.out.println("You entered " + pers1.getTotalYears() + ".\n");   
+                                            ^
+  symbol:   method getTotalYears()
+  location: variable pers1 of type Persons_Information
+30 errors
+
+ ----jGRASP wedge2: exit code for process is 1.
+ ----jGRASP: operation complete.
